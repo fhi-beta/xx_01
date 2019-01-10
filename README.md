@@ -1,12 +1,12 @@
-# xx_01
+# Assignment for candidates for the position - Statistician - Infection Epidemiology and Modelling (1884-SM) at the Norwegian Institute of Public Health
 
 ## Email to applicants
 
-We will be sending you a basic skills test that will test your skills in R and the surveillance of infectious diseases. You will have 48 hours to complete it. As a part of this test, you will need to sign up for a free GitHub account (https://github.com/join).
+We will be sending you a basic skills test that will test your skills in R and the surveillance of infectious diseases. As a part of this test, you will need to sign up for a free GitHub account (https://github.com/join).
 
 ## Background
 
-This is a basic skills test that will test your skills in R and the surveillance of infectious diseases. You will have 48 hours to complete it. Please read through all of this document before beginning the test.
+This is an assignment related to infectious disease surveillance that will test your skills in R. The deadline for submission of the test is Tuesday 15.01.2019 23:59. Please read through all of this document before beginning the test.
 
 If you have any technical issues throughout the test, please email RichardAubrey.White@fhi.no or WhatsApp/iMessage Richard at `+47 404 60 430`.
 
@@ -73,7 +73,7 @@ Do the following for each of the 422 municipalities:
 
 Every week there is a meeting at Folkehelseinstituttet to discuss the current outbreak situation in Norway. The current date is `2010-12-31`. You need to produce graph(s) and/or table(s) for this meeting that will give the meeting participants a good summary of the current situation for `Disease X` in Norway and the situation in the last few weeks. In this meeting you would have a maximum of 2 minutes to present, so your graph(s) and/or table(s) must be easily understood.
 
-You may use external data sources for this creative assigment.
+You may use external structural data files for this creative assigment (e.g. shapefiles for Norway) if you think it is appropriate.
 
 Please save your graph(s) and/or table(s) into `results/creative_assignment`.
 
