@@ -8,8 +8,6 @@ We will be sending you a basic skills test that will test your skills in R and t
 
 This is an assignment related to infectious disease surveillance that will test your skills in R. The deadline for submission of the test is Tuesday 15.01.2019 23:59. Please read through all of this document before beginning the test.
 
-If you have any technical issues throughout the test, please email RichardAubrey.White@fhi.no or WhatsApp/iMessage Richard at `+47 404 60 430`.
-
 The scenario is broadly as follows:
 
 You are responsible for `Disease X`. There is a data file `data_raw/individual_level_data.RDS` which contains individual level daily data for `Disease X` for 422 municipalities between `2000-01-01` and `2010-12-31`. Each row of this dataset corresponds to 1 sick person on that date. To be more explicit:
