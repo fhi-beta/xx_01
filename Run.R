@@ -9,4 +9,3 @@ sapply(fileSources, source, .GlobalEnv)
 #CreateFakeData()
 d <- readRDS("data_raw/individual_level_data.RDS")
 d
-
