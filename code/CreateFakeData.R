@@ -27,6 +27,8 @@ CreateFakeDataForOneMunicipality <- function(seed = 4) {
   d[, outbreak := NULL]
   d[, mu := NULL]
   suppressWarnings(d[, value := "1 person"])
+  
+  d <- d[!(date >= "2005-04-01" & date <= "2005-04-15")]
 
   return(d)
 }
