@@ -41,7 +41,7 @@ The data file `data_raw/norwayLocations.RDS` contains a data.frame that links `l
 
 You are required to put your code in the following locations:
 
-- All functions are to be placed in .R files locaed in the `code` folder (e.g. see `code/CreateFakeData.R`)
+- All functions are to be placed in .R files located in the `code` folder (e.g. see `code/CreateFakeData.R`)
 - You will write your master file/script/code (that runs all of the requested analyses by calling the functions in `code/*`) in `Run.R` (this file already has a few lines of code in it)
 - Your results will be saved in the `results` folder
 
