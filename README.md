@@ -6,7 +6,7 @@ We will be sending you a basic skills test that will test your skills in R and t
 
 ## Background
 
-This is an assignment related to infectious disease surveillance that will test your skills in R. The deadline for submission of the test is Tuesday 15.01.2019 23:59. Please read through all of this document before beginning the test.
+This is an assignment related to infectious disease surveillance that will test your skills in R. The deadline for submission of the test is found in your email. Please read through all of this document before beginning the test.
 
 The scenario is broadly as follows:
 
